@@ -2,7 +2,7 @@
 
 
 ## Desafio Módulo 1: Python e pandas para análise de dados reais
-Utilizando Python, Pandas e Matplotlib para explorar os dados do SUS de imunização no país desde 1994. O desafio começa pela aquisição da base de dados na plataforma DATASUS, feito uma exploração superficial para definição do tipo de problema que será analisado.
+Utilizando Python, Pandas e Matplotlib para explorar os dados do SUS de imunização no país desde 1994 (http://www2.datasus.gov.br/DATASUS/index.php?area=0202&id=11637). O desafio começa pela aquisição da base de dados na plataforma DATASUS, feito uma exploração superficial para definição do tipo de problema que será analisado.
 
 
 ### Os dados
