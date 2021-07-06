@@ -18,12 +18,4 @@ O objetivo deste desafio é fazer uma análise exploratória e contextualizaçã
 - Manipulação e interpretação de gráficos
 
 
-### Resultados
-
-A partir da hipótese foi observado que ....
-
-
-### Conclusões
-
-
 Colab do Notebook
